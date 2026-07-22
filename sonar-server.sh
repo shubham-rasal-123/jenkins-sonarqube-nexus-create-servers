@@ -1,7 +1,6 @@
 #!/bin/bash  
 
 # SonarQube Installation
-
 apt update -y
 apt install -y docker.io 
 
